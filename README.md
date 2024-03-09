@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hua-yy
 - 👀 Software Dev, Web Dev, Unreal Engine Dev, Data Sci
 - 📍 Toronto, Ontario - Edmonton, Alberta
-- 💞️ I’m looking to collaborate on ...
 - 📫 Ins: h.u.a__
 - 😄 Pronouns: He/Him
 
