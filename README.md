@@ -1,2 +1,1 @@
-- Software Dev, Web Dev, Unreal Engine Dev, Quantitative Trading
 - 📍 Toronto, Ontario - Edmonton, Alberta
